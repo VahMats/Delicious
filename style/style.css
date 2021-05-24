@@ -1,0 +1,217 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Texturina:wght@500&display=swap'); */
+
+@font-face{
+    font-family: Lobster;
+    src: url('../font/Lobster-Regular.ttf');
+}
+@font-face{
+    font-family: Lobik;
+    src: url('../font/ufonts.com_cc-wild-words-roman.ttf');
+}
+body{
+    margin: 0px;
+    height: 0px;
+}
+.osnov{
+    background-image: url(../img/bg_top_img.jpg)  ;
+    width: 100%;
+    /* height: 800px; */
+    background-size: cover;
+}
+.verev{
+    margin: 0 auto;
+    width: 75%;
+    /* border: 1px solid wheat; */
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.logo{
+    width: 300px;
+    height: 100px;
+}
+.nav{
+    /* border: 1px solid black; */
+
+}
+
+.nav_ul_il{
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+}
+.spitak{
+    margin: 0 auto;
+    background-color: #F7EDE4;
+    width: 75%;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+.text{
+    font-family: Lobik;
+    font-size: 40px;
+    color: rgb(92, 27, 27);
+    margin-block-end: 0px;
+}
+.dzaxtext{
+    text-align: center;
+    height: 500px;
+    width: 500px;
+}
+.lazania{
+    height: 450px;
+    width: 800px;
+}
+.text1{
+    font-family: Lobik;
+    font-size: 30px;
+    margin-top:10px ;
+}
+.text2{
+    font-family: Lobik;
+    font-size: 20px;
+}
+.main{
+    display: flex;
+    width: 70%  ;
+    margin: 0 auto;
+    justify-content: space-between;
+
+}
+.read{
+    border: 4px solid black;
+    background-color: rgba(0, 0, 0, 0.486);
+    width: 350px;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.zagol{
+    font-size: 40px;
+    margin-top: 10px;
+    margin-block-end: 15px;
+    color: white;
+}
+.guyn{
+    color: red;
+}
+.text3{
+    color: white;
+    font-size: 20px;
+}
+/* .nkar1{
+    width: 400px;
+    height: 160px; 
+}*/
+.knopka{
+    background-color: red;
+    width: 200px;
+    height: 50px;
+    color: wheat;
+    font-size: 20px;
+    border-color: transparent;
+}
+.hamara{
+    list-style-type: decimal;
+    color: white;
+    font-size: 20px;
+}
+.hamverj{
+width: 75%; ;
+/* height: 500px; */
+margin: 0 auto;
+/* border: 1px solid red; */
+display: flex;
+}
+.utest{
+ /* border: 1px solid blue; */
+ width: 400px;
+ display: flex;
+ justify-content: space-between;    
+}
+.text4{
+    margin-left: 10px;
+
+
+}
+.poqrmenu{
+    display: flex;
+    justify-content: space-between;
+
+}
+.dzaxmenu{
+    width: 900px;
+    
+    /* border: 1px solid black; */
+    flex-direction: column;
+    justify-content: space-between;
+
+
+}
+.text5{
+    font-family: Lobik;
+    font-size: 50px;
+    font-style: italic;
+    margin: 15px;
+
+}
+.hamar{
+    width: 70px;
+    height: 70px;
+    background-color: red;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+.pstl{
+    display: flex;
+    width: 400px;
+    /* flex-direction: column; */
+    /* justify-content: space-around; */
+    /* border: 1px solid black; */
+
+}
+.ajmenu{
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-between; */
+    margin-left: 50px;
+}
+.dzevi{
+    width: 100%;
+    background-color: #F3E5DC;
+    height: 150px;
+
+}
+
+.end{
+    width: 75%;
+    height: 150px;
+    margin: 0 auto;
+    /* border: 1px solid black ;  */
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    vertical-align: top;
+}
+.dem{
+        font-size: 30px;
+        margin-top : 0px;
+        margin-block-end: 0px;
+        display: inline-block;
+}
+.logoner{
+
+
+
+}
+.text6{
+    font-size:30px ;
+    font-weight: 800;
+    display: inline-block
+
+}
+
+
+
